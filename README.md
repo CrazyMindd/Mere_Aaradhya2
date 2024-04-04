@@ -6,4 +6,4 @@
 ## DEPLOY TO HEROKU
 
 
-[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/livecallclass/tiger-txt-ADVANCED)
+[https://dashboard.heroku.com/new?template=https://github.com/CrazyMindd/Mere_Aaradhya2.git)
